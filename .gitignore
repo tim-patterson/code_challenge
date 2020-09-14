@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__
+anonymised.csv
+name_addresses.csv
+/tests/test_data/output.file
